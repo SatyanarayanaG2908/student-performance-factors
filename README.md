@@ -25,12 +25,13 @@ It includes data preprocessing, exploratory analysis, and insights for educators
 Here’s a quick look at the **Power BI multi-page dashboard**:  
 
 ### 📈 Page 1 – Student Performance Overview  
-![Dashboard Page 1](dashboard_page1.png)  
+![Dashboard Page 1] <img width="1427" height="801" alt="dashboard page1" src="https://github.com/user-attachments/assets/5881c158-cf90-49b7-b813-911fbab1fbfa" />
+ 
 
 ### 📊 Page 2 – Factor Analysis  
-![Dashboard Page 2](dashboard_page2.png)  
+![Dashboard Page 2]  <img width="1423" height="785" alt="dashboard page2" src="https://github.com/user-attachments/assets/36bb66a2-e192-43a0-bab0-cc56fb5b1b98" />
 
-*(Replace with your actual screenshots of the Power BI dashboard)*
+
 
 ---
 
